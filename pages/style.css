@@ -1,0 +1,52 @@
+body {
+    padding: 50px 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.89), rgba(0, 0, 0, 0.856)), 
+           url('/imagens/background-2.png');
+    background-size: cover; 
+    height: 100vh;
+    background-attachment: fixed;
+    color: #e74c3c;
+}
+
+nav {
+    background-color: bisque;
+    width: 100vw;
+    height: 50px;
+    border-radius: 0px 0px 50% 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 1px 10px rgba(139, 125, 107, 0.719);
+}
+
+a {
+    text-decoration: none;
+    color: #ff5d4b;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.7em;
+    color: #e74c3c;
+    text-align: left;
+  }
+
+p {
+    font-family: 'Lora', serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: bisque;
+    text-align: justify;
+}
+  
+
+span {
+    font-size: xx-large;
+    /* display: block; */
+    text-align: center;
+}
