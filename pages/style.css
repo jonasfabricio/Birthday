@@ -34,7 +34,7 @@ h1 {
     font-size: 1.7em;
     color: #e74c3c;
     text-align: left;
-  }
+}
 
 p {
     font-family: 'Lora', serif;
@@ -47,6 +47,11 @@ p {
 
 span {
     font-size: xx-large;
-    /* display: block; */
     text-align: center;
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #e74c3c;
+    margin: 10px;
 }
