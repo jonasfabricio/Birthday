@@ -1,27 +1,27 @@
 function acertou(){
-    window.location = "http://127.0.0.1:5500/pages/index.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/index.html"
 }
 
 function errou(){
-    window.location = "http://127.0.0.1:5500/pages/errou.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/errou.html"
 }
 
 function voltar(){
-    window.location = "http://127.0.0.1:5500/pages/login2.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/login2.html"
 }
 
 function casa(){
-    window.location = "http://127.0.0.1:5500/pages/casa.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/casa.html"
 }
 
 function cinema(){
-    window.location = "http://127.0.0.1:5500/pages/cinema.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/cinema.html"
 }
 
 function olinda(){
-    window.location = "http://127.0.0.1:5500/pages/olinda.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/olinda.html"
 }
 
 function escola(){
-    window.location = "http://127.0.0.1:5500/pages/secreta.html"
+    window.location = "https://jonasfabricio.github.io/Birthday/pages/secreta.html"
 }
